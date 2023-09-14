@@ -3,6 +3,9 @@ module.exports = {
   content: ["./src/**/*.{html,ts,js}"],
   theme: {
     extend: {},
+    colors: {
+      warnabtn: "#04019A",
+    },
   },
   plugins: [require("daisyui")],
   daisyui: {
