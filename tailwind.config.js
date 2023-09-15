@@ -5,6 +5,7 @@ module.exports = {
     extend: {},
     colors: {
       warnabtn: "#04019A",
+      warnadua: "#5E3EDD",
     },
   },
   plugins: [require("daisyui")],
